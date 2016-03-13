@@ -1,6 +1,6 @@
 # CI_userlists
 
-== Simple CRUD demo using :
+Simple CRUD demo using :
 
 1. CodeIgniter HMVC
       https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
