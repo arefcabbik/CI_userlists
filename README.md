@@ -15,3 +15,5 @@ Simple CRUD demo using :
 
 5. jQuery Form Validator
       http://www.formvalidator.net/
+      
+Demo : http://demo.vividplace.tk
