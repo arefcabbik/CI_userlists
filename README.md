@@ -11,6 +11,7 @@
       http://materializecss.com/getting-started.html
 
 4. SweetAlert
+      http://t4t5.github.io/sweetalert/
 
 5. jQuery Form Validator
       http://www.formvalidator.net/
