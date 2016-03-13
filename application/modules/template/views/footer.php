@@ -7,7 +7,9 @@
 				<p class="grey-text text-lighten-4">Using CodeIgniter HMVC and Ajax.</p>
 			</div>
 			<div class="col l6 s12">
-				<a class="waves-effect waves-light btn"><i class="material-icons right">cloud</i>button</a>
+				<br />
+				<a href="https://github.com/azism/CI_userlists/" target="_blank" 
+					class="waves-effect waves-light red btn right">view source on github</a>
 			</div>
 		</div>
 	</div>
